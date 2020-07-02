@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,Monocle 24
+https://radio.monocle.com/live
+#EXTINF:30,YLEX
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8
+#EXTINF:0,YLE Suomi
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_3@113880/master.m3u8
+#EXTINF:0,nova
+http://stream.bauermedia.fi/radionova/radionova_64.aac
+#EXTINF:0,kiss
+http://stream.bauermedia.fi/kiss/kiss_64.aac
+#EXTINF:0,kasari
+http://stream.bauermedia.fi/kasari/kasari_64.aac
+#EXTINF:0,ysäri
+http://stream.bauermedia.fi/ysari/ysari_64.aac
+#EXTINF:0,basso
+http://stream.bauermedia.fi/basso/bassoradio_64.aac
+#EXTINF:0,räp
+http://stream.bauermedia.fi/basso/rap_64.aac
+#EXTINF:0,nrj
+http://stream.bauermedia.fi/nrj/nrj_64.aac
+#EXTINF:0,nostalgia
+http://stream.bauermedia.fi/nostalgia/nostalgia_64.aac
+#EXTINF:0,957
+http://stream.bauermedia.fi/radio957/radio957_64.aac
+#EXTINF:0,city
+http://stream.bauermedia.fi/radiocity/hki_64.aac
+#EXTINF:0,iskelmä
+http://stream.bauermedia.fi/iskelma/hki_64.aac
+#EXTINF:0,iskelmä sastamala
+http://stream.bauermedia.fi/iskelma/sas_64.aac
